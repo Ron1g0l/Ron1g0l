@@ -6,4 +6,4 @@ meu nome é Luiz Fellipe Bium
 -estou me desenvolvendo na linguagem JavaScript          
 -utilizo esse espaço para organização e compartilhamento de meus projetos
 
-![]](https://media1.tenor.com/m/6gyrxSblf3wAAAAd/rony.gif)
+![](https://media1.tenor.com/m/6gyrxSblf3wAAAAd/rony.gif).
